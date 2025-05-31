@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clareador de Pele - Axilas, Virilha e Rosto</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      background: #fff;
+      padding: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin-top: 40px;
+      border-radius: 10px;
+    }
+    h1 {
+      color: #111;
+      text-align: center;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      color: #444;
+    }
+    .cta {
+      display: block;
+      width: 100%;
+      text-align: center;
+      margin-top: 30px;
+    }
+    .cta a {
+      background: #ff69b4;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Clareie sua Pele com Segurança e Eficácia</h1>
+    <img src="https://via.placeholder.com/600x300?text=Imagem+do+Produto" alt="Imagem do Produto">
+    <p>
+      Axilas escuras? Virilha manchada? Rosto com melasmas ou manchas?  
+      Nosso clareador foi desenvolvido para te devolver o tom uniforme da pele com uma fórmula leve, natural e eficaz.
+    </p>
+    <p>
+      Resultado visível em poucas semanas. Pode ser usado nas áreas íntimas com segurança. Dermatologicamente testado.
+    </p>
+    <div class="cta">
+      <a href="https://seu-link-de-venda.com" target="_blank">Quero Clarear Minha Pele</a>
+    </div>
+  </div>
+</body>
+</html>
