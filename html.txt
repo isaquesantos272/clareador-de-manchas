@@ -1,70 +1,107 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Clareador de Pele - Axilas, Virilha e Rosto</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Clareador de Pele Natural</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background-color: #f8f8f8;
       margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 600px;
-      margin: 0 auto;
+      font-family: Arial, sans-serif;
       background: #fff;
-      padding: 30px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-      margin-top: 40px;
-      border-radius: 10px;
+      color: #333;
     }
-    h1 {
-      color: #111;
-      text-align: center;
-    }
-    p {
-      font-size: 18px;
-      line-height: 1.6;
-      color: #444;
-    }
-    .cta {
-      display: block;
-      width: 100%;
-      text-align: center;
-      margin-top: 30px;
-    }
-    .cta a {
-      background: #ff69b4;
+    header {
+      background: #e91e63;
       color: white;
-      padding: 15px 30px;
-      text-decoration: none;
-      border-radius: 8px;
+      text-align: center;
+      padding: 30px 20px;
+    }
+    section {
+      padding: 20px;
+      max-width: 700px;
+      margin: auto;
+    }
+    .btn {
+      display: inline-block;
+      background: #25d366;
+      color: white;
+      padding: 15px 25px;
       font-size: 18px;
-      font-weight: bold;
+      border-radius: 8px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+    .depoimento, .antes-depois {
+      background: #f9f9f9;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 20px;
+    }
+    .img-box {
+      text-align: center;
     }
     img {
-      max-width: 100%;
+      width: 90%;
+      max-width: 400px;
       border-radius: 10px;
-      margin: 20px 0;
+      margin-top: 10px;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      padding: 20px;
+      background: #eee;
+      color: #555;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Clareie sua Pele com Segurança e Eficácia</h1>
-    <img src="https://via.placeholder.com/600x300?text=Imagem+do+Produto" alt="Imagem do Produto">
-    <p>
-      Axilas escuras? Virilha manchada? Rosto com melasmas ou manchas?  
-      Nosso clareador foi desenvolvido para te devolver o tom uniforme da pele com uma fórmula leve, natural e eficaz.
-    </p>
-    <p>
-      Resultado visível em poucas semanas. Pode ser usado nas áreas íntimas com segurança. Dermatologicamente testado.
-    </p>
-    <div class="cta">
-      <a href="https://seu-link-de-venda.com" target="_blank">Quero Clarear Minha Pele</a>
+
+  <header>
+    <h1>Pele Mais Clara em Poucos Dias</h1>
+    <p>Clareie axilas, virilha, rosto e outras áreas de forma natural e segura!</p>
+  </header>
+
+  <section>
+    <h2>🌟 Resultados Visíveis Rápido</h2>
+    <p>Nosso clareador de pele foi desenvolvido com ingredientes naturais que ajudam a uniformizar o tom da pele, reduzindo manchas em regiões como axilas, virilha e rosto.</p>
+    <a class="btn" href="https://wa.me/SEUNUMERO" target="_blank">Falar no WhatsApp</a>
+  </section>
+
+  <section>
+    <h2>📸 Antes e Depois</h2>
+    <div class="antes-depois">
+      <p>Veja o resultado de quem usou por apenas 14 dias:</p>
+      <div class="img-box">
+        <img src="https://via.placeholder.com/400x300?text=Antes+e+Depois" alt="Antes e Depois">
+      </div>
     </div>
-  </div>
+  </section>
+
+  <section>
+    <h2>💬 Depoimentos Reais</h2>
+    <div class="depoimento">
+      <p>“Sofria muito com a pele escura nas axilas. Em 2 semanas minha pele já estava mais clara e bonita.”</p>
+      <strong>— Carla M.</strong>
+    </div>
+    <div class="depoimento">
+      <p>“Usei na virilha e no rosto e clareou muito mais do que eu imaginava! Recomendo demais.”</p>
+      <strong>— Luana S.</strong>
+    </div>
+  </section>
+
+  <section style="text-align: center;">
+    <h2>🚀 Garanta o seu agora mesmo!</h2>
+    <p>Estoques limitados. Atendimento via WhatsApp:</p>
+    <a class="btn" href="https://wa.me/https://wa.me/55985213674" target="_blank">Quero Clarear Minha Pele</a>
+  </section>
+
+  <footer>
+    &copy; 2025 Clareador Natural. Todos os direitos reservados.
+  </footer>
+
 </body>
 </html>
